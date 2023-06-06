@@ -8,6 +8,7 @@ android {
     compileSdk 33
 
     defaultConfig {
+        applicationId "br.com.a3tecnoly.liblog"
         minSdk 22
         targetSdk 33
         versionCode 1
