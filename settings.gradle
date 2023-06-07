@@ -15,6 +15,7 @@ dependencyResolutionManagement {
         }
     }
 }
+
 rootProject.name = "LibLog"
 include ':app'
 include ':liblog'
